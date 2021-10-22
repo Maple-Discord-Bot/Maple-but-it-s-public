@@ -1,5 +1,8 @@
 # Maple
 
+### No we are not an open source project
+* What? Are you here to copy codes or something?
+
 ### How it began
 * The bot started as a hobby project for my school server. As I upgrade it on and on, my friend also invited the bot to their  servers too! This bot now has a lot of functions to help and assist with your server! With frequent updates every week, more useful features will be added with a dashboard website coming soon to help configure the bot to help with your server!
 
